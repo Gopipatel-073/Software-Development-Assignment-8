@@ -1,0 +1,53 @@
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\bin\Debug\EmailAddressBook.exe.config
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\bin\Debug\EmailAddressBook.exe
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\bin\Debug\EmailAddressBook.pdb
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\bin\Debug\WPFToolkit.dll
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\Themes\Metro\Styles.Shared.baml
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\Themes\Metro\Styles.WPF.baml
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\Themes\Metro\Theme.Colors.baml
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\MainWindow.g.cs
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\Person.g.cs
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\App.g.cs
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook_MarkupCompile.cache
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook_MarkupCompile.lref
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\App.baml
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\MainWindow.baml
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\Person.baml
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.g.resources
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.Properties.Resources.resources
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.csproj.GenerateResource.cache
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.csproj.CopyComplete
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.exe
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.pdb
+E:\Conestoga\Computer Application Development\Jan 18 - April 18\Programming Software Dev Tech\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.csprojAssemblyReference.cache
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\bin\Debug\EmailAddressBook.exe.config
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\bin\Debug\EmailAddressBook.exe
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\bin\Debug\EmailAddressBook.pdb
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\bin\Debug\WPFToolkit.dll
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.csprojAssemblyReference.cache
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\Themes\Metro\Styles.Shared.baml
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\Themes\Metro\Styles.WPF.baml
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\Themes\Metro\Theme.Colors.baml
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\MainWindow.g.cs
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\Person.g.cs
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\App.g.cs
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook_MarkupCompile.cache
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook_MarkupCompile.lref
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\App.baml
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\MainWindow.baml
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\Person.baml
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.g.resources
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.Properties.Resources.resources
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.csproj.GenerateResource.cache
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.csproj.CoreCompileInputs.cache
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.csproj.CopyComplete
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.exe
+G:\conestoga\Software development\Assignments\Assignment 8\EmailAddressBook\obj\Debug\EmailAddressBook.pdb

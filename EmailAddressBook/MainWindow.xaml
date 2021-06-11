@@ -1,0 +1,30 @@
+﻿<Window x:Class="EmailAddressBook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmailAddressBook"
+        mc:Ignorable="d"
+        Title="E-mail Address Book" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <ListBox SelectionChanged="ListBox_SelectionChanged" Margin="5" Grid.Row="1" Grid.Column="0" Grid.RowSpan="5" Grid.ColumnSpan="3" SelectedItem="{Binding SelectedPerson}" ItemsSource="{Binding Contacts}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <DockPanel>
+                        <Label Foreground="#FF00AADE" FontSize="18" Tag="{Binding Id}" Content="{Binding Name}"></Label>
+                    </DockPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <TextBox x:Name="txtSearch" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" Height="23" TextWrapping="Wrap" VerticalAlignment="Center" Width="220" Text="Search...." GotFocus="txtSearch_GotFocus" LostFocus="txtSearch_LostFocus" KeyUp="txtSearch_KeyUp" Opacity="0.50" Margin="40,20,4,20"/>
+    </Grid>
+</Window>
